@@ -41,5 +41,5 @@
 
 ابتدا مخزن را کلون کنید:
 ```bash
-git clone https://github.com/your-username/mail.git
+https://github.com/WHA-10/here-ui-mail.git
 cd mail
